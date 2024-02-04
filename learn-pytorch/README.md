@@ -21,4 +21,5 @@ then open the notebook file in the web browser.
 
 ## Notebooks
 
-1. [Tensors](https://pytorch.org/tutorials/beginner/basics/tensor_tutorial.html): `tensors`
+1. [Tensors](https://pytorch.org/tutorials/beginner/basics/tensor_tutorial.html): `tensor_tutorial`
+2. [Datasets and dataloaders](https://pytorch.org/tutorials/beginner/basics/data_tutorial.html): `data_tutorial`
